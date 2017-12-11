@@ -16,8 +16,12 @@
     <!-- Custom styles for this template -->
     <link href="css/one-page-wonder.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
+    <link href="dpp_custom.css" rel="stylesheet" type="text/css">
+      
+      <!-- Custom scripts for this template -->
+    <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>   
 
-  </head>
+</head>
 
   <body>
 
@@ -149,6 +153,27 @@
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      
+      <!-- ScrollReveal JavaScript -->
+      <script>          
+        window.sr = ScrollReveal();
+        sr.reveal('.navbar-brand', {
+          duration: 2000,
+          origin:'bottom'
+        });
+        sr.reveal('.p-5', {
+          duration: 2000,
+          origin:'left',
+          distance:'300px',
+          viewFactor: 0.2
+        });
+        sr.reveal('.p-6', {
+          duration: 2000,
+          origin:'right',
+          distance:'300px',
+          viewFactor: 0.2
+        });
+      </script>
 
   </body>
 
