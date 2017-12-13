@@ -10251,3 +10251,12 @@ if ( !noGlobal ) {
 
 return jQuery;
 } );
+
+// Animations
+
+jQuery(document).ready(function() {
+    jQuery('.display-4').addClass("hidden").viewportChecker({
+        classToAdd: 'visible animated fadeInLeft',
+        offset: 100
+       });
+});
