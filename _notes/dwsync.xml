@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name=".travis.yml" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638694827094" remote="131566755000000000" Dst="1" />
-<file name=".gitignore" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638694817084" remote="131566755000000000" Dst="1" />
-<file name="gulpfile.js" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638694917154" remote="131566755000000000" Dst="1" />
-<file name="index.html" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131573392893820664" remote="131573502600000000" Dst="1" />
-<file name="LICENSE" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638694837098" remote="131566755000000000" Dst="1" />
-<file name="package.json" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638695137298" remote="131566755000000000" Dst="1" />
-<file name="README.md" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638698032567" remote="131566755000000000" Dst="1" />
-<file name="about.html" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131574345659692236" remote="131574477000000000" Dst="1" />
-<file name="contact.html" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131574360595813378" remote="131574477000000000" Dst="1" />
-<file name="grooves.html" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131574345656290162" remote="131574477000000000" Dst="1" />
-<file name="dpp_custom.css" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131574368516492568" remote="131574477000000000" Dst="1" />
+<file name=".travis.yml" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638694827094" remote="131577975000000000" Dst="1" />
+<file name=".gitignore" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638694817084" remote="131577975000000000" Dst="1" />
+<file name="gulpfile.js" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638694917154" remote="131577975000000000" Dst="1" />
+<file name="index.html" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131577901432765794" remote="131577975000000000" Dst="1" />
+<file name="LICENSE" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638694837098" remote="131577975000000000" Dst="1" />
+<file name="package.json" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638695137298" remote="131577975000000000" Dst="1" />
+<file name="README.md" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131566638698032567" remote="131577975000000000" Dst="1" />
+<file name="about.html" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131574345659692236" remote="131577975000000000" Dst="1" />
+<file name="contact.html" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131574360595813378" remote="131577975000000000" Dst="1" />
+<file name="grooves.html" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131574345656290162" remote="131577975000000000" Dst="1" />
+<file name="dpp_custom.css" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131574368516492568" remote="131574441000000000" Dst="1" />
+<file name=".atom-live-server.json" server="bumpkitchen.com/everett.bumpkitchen.com/" local="131577896415598677" remote="131577975000000000" Dst="1" />
 </dwsync>
